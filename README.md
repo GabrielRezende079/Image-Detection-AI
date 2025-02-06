@@ -6,7 +6,7 @@ Este repositório contém um projeto de detecção de imagem desenvolvido como p
 ![Image](https://github.com/user-attachments/assets/d918b673-56c0-42f9-96da-c4b99c315db9)
 
 🚀 Tecnologias Utilizadas
-Python 🐍
+Python 🐍 <br>
 YOLOv8 - Ultralytics 🖼️
 OpenCV 📷
 TensorFlow/PyTorch (dependendo da implementação)
