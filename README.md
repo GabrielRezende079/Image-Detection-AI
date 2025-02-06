@@ -1,5 +1,5 @@
 # Image-Detection-AI
-🏀 Detecção de Placares de Basquete com YOLO | Ultralytics
+<h2>🏀 Detecção de Placares de Basquete com YOLO | Ultralytics</h2>
 
 Este repositório contém um projeto de detecção de imagem desenvolvido como parte de um trabalho acadêmico. O objetivo é utilizar a arquitetura YOLO (You Only Look Once), por meio da biblioteca Ultralytics, para identificar placares de basquete em imagens e vídeos.
 
